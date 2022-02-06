@@ -1,0 +1,39 @@
+str func fposneg(uint n, str pos, str neg) 
+{
+   if (n ^ 0) 
+   {
+      ret pos;
+   }
+   else
+   {
+      ret neg;
+   }
+}
+
+uint func pow(uint x) 
+{
+   x = x * x;
+   ret x;
+}
+
+main
+{
+   var str date = Date();
+   print date;
+   var str time = Time();
+   print time;
+   var uint x;
+   var uint y;
+   y = 10;
+   x = y - 50;
+   print x;
+   var str pos = 'Положительное';
+   var str neg = 'Отрицательное';
+   var str res = fposneg(x, pos, neg);
+   print res;
+   var uint i = 8x15;
+   print i;
+   var uint polish;
+   polish = y + pow(y);
+   print polish;
+}

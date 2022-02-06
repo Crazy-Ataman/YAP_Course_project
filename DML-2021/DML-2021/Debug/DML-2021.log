@@ -1,0 +1,37 @@
+﻿  Generation.cpp
+  IT.cpp
+  In.cpp
+  LT.cpp
+  LexParsing.cpp
+E:\Лабы\Курсовой ЯП (Готов)\DML-2021\DML-2021\LexParsing.cpp(10,1): warning C4005: 'FST_PLUS': macro redefinition
+E:\Лабы\Курсовой ЯП (Готов)\DML-2021\DML-2021\Graphs.h(205): message : see previous definition of 'FST_PLUS'
+E:\Лабы\Курсовой ЯП (Готов)\DML-2021\DML-2021\LexParsing.cpp(11,1): warning C4005: 'FST_MINUS': macro redefinition
+E:\Лабы\Курсовой ЯП (Готов)\DML-2021\DML-2021\Graphs.h(210): message : see previous definition of 'FST_MINUS'
+E:\Лабы\Курсовой ЯП (Готов)\DML-2021\DML-2021\LexParsing.cpp(12,1): warning C4005: 'FST_STAR': macro redefinition
+E:\Лабы\Курсовой ЯП (Готов)\DML-2021\DML-2021\Graphs.h(215): message : see previous definition of 'FST_STAR'
+E:\Лабы\Курсовой ЯП (Готов)\DML-2021\DML-2021\LexParsing.cpp(13,1): warning C4005: 'FST_DIRSLASH': macro redefinition
+E:\Лабы\Курсовой ЯП (Готов)\DML-2021\DML-2021\Graphs.h(220): message : see previous definition of 'FST_DIRSLASH'
+E:\Лабы\Курсовой ЯП (Готов)\DML-2021\DML-2021\LexParsing.cpp(14,1): warning C4005: 'FST_MORE': macro redefinition
+E:\Лабы\Курсовой ЯП (Готов)\DML-2021\DML-2021\Graphs.h(38): message : see previous definition of 'FST_MORE'
+E:\Лабы\Курсовой ЯП (Готов)\DML-2021\DML-2021\LexParsing.cpp(15,1): warning C4005: 'FST_LESS': macro redefinition
+E:\Лабы\Курсовой ЯП (Готов)\DML-2021\DML-2021\Graphs.h(44): message : see previous definition of 'FST_LESS'
+E:\Лабы\Курсовой ЯП (Готов)\DML-2021\DML-2021\LexParsing.cpp(16,1): warning C4005: 'FST_EQMORE': macro redefinition
+E:\Лабы\Курсовой ЯП (Готов)\DML-2021\DML-2021\Graphs.h(50): message : see previous definition of 'FST_EQMORE'
+E:\Лабы\Курсовой ЯП (Готов)\DML-2021\DML-2021\LexParsing.cpp(17,1): warning C4005: 'FST_EQLESS': macro redefinition
+E:\Лабы\Курсовой ЯП (Готов)\DML-2021\DML-2021\Graphs.h(56): message : see previous definition of 'FST_EQLESS'
+E:\Лабы\Курсовой ЯП (Готов)\DML-2021\DML-2021\LexParsing.cpp(18,1): warning C4005: 'FST_EQUALS': macro redefinition
+E:\Лабы\Курсовой ЯП (Готов)\DML-2021\DML-2021\Graphs.h(62): message : see previous definition of 'FST_EQUALS'
+E:\Лабы\Курсовой ЯП (Готов)\DML-2021\DML-2021\LexParsing.cpp(19,1): warning C4005: 'FST_NEQUALS': macro redefinition
+E:\Лабы\Курсовой ЯП (Готов)\DML-2021\DML-2021\Graphs.h(68): message : see previous definition of 'FST_NEQUALS'
+E:\Лабы\Курсовой ЯП (Готов)\DML-2021\DML-2021\LexParsing.cpp(179,23): warning C4018: '<': signed/unsigned mismatch
+  Log.cpp
+  MFST.cpp
+E:\Лабы\Курсовой ЯП (Готов)\DML-2021\DML-2021\MFST.cpp(234,68): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Main.cpp
+  Parm.cpp
+  Polish.cpp
+  SemParsing.cpp
+  Split.cpp
+  Generating Code...
+E:\Лабы\Курсовой ЯП (Готов)\DML-2021\DML-2021\LT.cpp(20): warning C4715: 'LT::Create': not all control paths return a value
+  DML-2021.vcxproj -> E:\Лабы\Курсовой ЯП (Готов)\DML-2021\Debug\DML-2021.exe
